@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>project</title>
     <link rel="stylesheet" href="css/adminLayout.css">
+    <link rel="stylesheet" href="css/adminMenu.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 </head>
 <body>
